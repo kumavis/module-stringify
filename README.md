@@ -2,6 +2,9 @@
 
 From WebWorkify - https://github.com/substack/webworkify/blob/master/index.js
 
+This has side effects, e.g., it doesn't create a minimal bundle.
+Also seems slow. You may prefer to create the bundle at build time with [meowserify](https://github.com/kumavis/meowserify)
+
 ### Usage
 
 ```js
