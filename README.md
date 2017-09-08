@@ -1,5 +1,7 @@
 ### Module-Stringify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/module-stringify.svg)](https://greenkeeper.io/)
+
 From WebWorkify - https://github.com/substack/webworkify/blob/master/index.js
 
 This has side effects, e.g., it doesn't create a minimal bundle.
